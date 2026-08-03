@@ -6,7 +6,7 @@ public class s {
         // Write your code here.
         String learnerName = "Ananya";
         int completedProblems = 25;
-        double practiceHours = 2.5;
+        double practiceHours = 2.6;
         boolean projectedCompleted = true;
 
         System.out.println("Learner: " + learnerName);
