@@ -10,7 +10,7 @@ public class number {
             System.out.println("Negative");
         }
         else{
-            System.err.println("Zero");
+            System.out.println("Zero");
         }
     }
 }
