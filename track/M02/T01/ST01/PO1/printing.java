@@ -1,4 +1,4 @@
-public class simple{
+public class printing {
     public static void main(String[] args){
         System.out.println("Monday");
         System.out.print("Tuesday");
@@ -9,3 +9,4 @@ public class simple{
         System.out.print("Sunday");
     }
 }
+
